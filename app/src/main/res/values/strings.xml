@@ -736,7 +736,7 @@ New dictionary:
     <!-- Theme name for darker theme (based on old border dark), todo: re-consider that stupid name -->
     <string name="theme_name_darker" tools:keep="@string/theme_name_darker">Color Transparent</string>
     <!-- Theme name for black theme (based on old amoled black) -->
-    <string name="theme_name_black" tools:keep="@string/theme_name_black">Black</string>
+    <string name="theme_name_black" tools:keep="@string/theme_name_black">Deep Translucent (60%)</string>
     <!-- Theme name for dynamic colors light theme -->
     <string name="theme_name_dynamic" tools:keep="@string/theme_name_dynamic">Dynamic colors</string>
     <!-- Theme name for blue-gray theme -->

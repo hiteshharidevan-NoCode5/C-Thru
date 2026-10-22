@@ -32,11 +32,11 @@
     <color name="key_hint_letter_color_lxx_dark">#80FFFFFF</color>
 
     <!-- Color resources for the old LXX_Dark_Border theme, now for THEME_DARKER. -->
-    <color name="keyboard_background_lxx_dark_border">#00000000</color>
+    <color name="keyboard_background_lxx_dark_border">#4D121212</color>
     <color name="key_background_normal_lxx_dark_border">#3300E5FF</color>
     <color name="key_background_functional_lxx_dark_border">#5900E5FF</color>
     <!-- Color resources for the old LXX_Dark_Amoled theme, now for THEME_BLACK. -->
-    <color name="background_amoled_black">#000000</color>
+    <color name="background_amoled_black">#99121212</color>
     <color name="background_amoled_dark">#1A1A1A</color>
 
     <!-- Color resources for LXX_Base theme. -->
