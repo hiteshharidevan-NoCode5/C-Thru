@@ -7,7 +7,7 @@
     <color name="foreground_weak">#BBB</color>
     <color name="toast_background">#444444</color>
 
-    <color name="keyboard_background">@color/keyboard_background_dark</color>
+    <color name="keyboard_background">#00000000</color>
 
     <!-- Color resources for setup wizard, tutorial and settings -->
     <color name="accent">@color/highlight_color_lxx_dark</color>
