@@ -146,4 +146,3 @@ dependencies {
     testImplementation("androidx.test:core:1.7.0")
 }
 
-}
