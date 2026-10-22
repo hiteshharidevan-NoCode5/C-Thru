@@ -12,8 +12,8 @@
     <color name="gesture_trail_color_lxx_dark">@android:color/system_accent1_200</color>
 
     <!-- colors used when user sets keyboard background color to be determined automatically -->
-    <color name="keyboard_background_light">@android:color/system_neutral1_100</color>
-    <color name="keyboard_background_dark">@android:color/system_neutral1_800</color>
+    <color name="keyboard_background_light">#00000000</color>
+    <color name="keyboard_background_dark">#00000000</color>
 
     <!-- Color resources for setup wizard, tutorial and settings -->
     <color name="accent">@android:color/system_accent1_600</color>
